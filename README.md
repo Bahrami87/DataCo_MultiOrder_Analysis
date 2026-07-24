@@ -162,6 +162,9 @@ DataCo_MultiOrder_Analysis/
 │
 └── analysis/
     └── KPI_Summary.md                # Final numbers reference sheet
+├── docs/
+│   ├── STAR_CaseStudy.md
+│   └── DataCo_Profit_Analysis.docx   # Full written analysis report
 ```
 
 ---
